@@ -1,6 +1,6 @@
 # test
 
-> A Vue.js project
+> vue知识点整理
 
 ## Build Setup
 
